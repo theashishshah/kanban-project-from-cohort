@@ -57,7 +57,7 @@ Boardify is a lightweight and efficient Kanban board designed to help you organi
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd boardify
+    cd kanban-project-from-cohort
     ```
 
 3.  **Install dependencies:**
