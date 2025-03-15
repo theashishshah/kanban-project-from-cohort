@@ -72,4 +72,4 @@ Boardify is a lightweight and efficient Kanban board designed to help you organi
     pnpm dev
     ```
 
-    Visit &nbsp;[http://localhost:3000](http://localhost:3000)&nbsp; to access your app.
+    Visit &nbsp;[http://localhost:3000](http://localhost:3000)&nbsp; or on your terminal link to access your app.
