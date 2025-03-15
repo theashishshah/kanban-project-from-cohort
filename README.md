@@ -1,3 +1,10 @@
+<h2 align="center">
+
+<img src = "./assets/eyes-to-see.gif" width = 26px align="top"/> &nbsp;[Visit to see live,hosted on vercel](https://kanban-project-from-cohort.vercel.app/) &nbsp;»
+
+</h2>
+
+
 ## <a name="introduction">❄️ &nbsp; Introduction</a>
 
 Boardify is a lightweight and efficient Kanban board designed to help you organize tasks effortlessly. Explore the codebase to discover more.
