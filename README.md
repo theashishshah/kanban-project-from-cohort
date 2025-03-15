@@ -1,4 +1,3 @@
-
 ## <a name="introduction">❄️ &nbsp; Introduction</a>
 
 Boardify is a lightweight and efficient Kanban board designed to help you organize tasks effortlessly. Explore the codebase to discover more.
@@ -14,17 +13,12 @@ Boardify is a lightweight and efficient Kanban board designed to help you organi
 ## <a name="features">🔋 &nbsp; Features</a>
 
 - Create Tasks
-  
 - Edit & Delete Tasks
-  
 - Drag & Drop
-  
 - Task Reordering
 
 - Task Prioritization
-  
 - Search & Filter
-  
 - Multiple Board Support
 
 - Dark/Light Theme
@@ -38,13 +32,9 @@ Boardify is a lightweight and efficient Kanban board designed to help you organi
 ## <a name="tech-stack">⚙️ &nbsp; Tech Stack</a>
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) – structuring
-  
 - [Tailwind CSS](https://tailwindcss.com/) – utility-first styling
-  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – functionality
-  
 - [Git](https://git-scm.com/) – version control
-  
 - [Vercel](https://vercel.com/) – deployment
 
 <br>
@@ -55,15 +45,13 @@ Boardify is a lightweight and efficient Kanban board designed to help you organi
     Make sure you have the following installed on your machine:
 
     - [Git](https://git-scm.com/)
-  
     - [Node.js](https://nodejs.org/en) (v20+)
-  
     - [pnpm](https://pnpm.io/) (Package Manager)
 
 1.  **Clone the repository:**
 
     ```bash
-   
+    https://github.com/iamashishshah/kanban-project-from-cohort.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -85,4 +73,3 @@ Boardify is a lightweight and efficient Kanban board designed to help you organi
     ```
 
     Visit &nbsp;[http://localhost:3000](http://localhost:3000)&nbsp; to access your app.
-
